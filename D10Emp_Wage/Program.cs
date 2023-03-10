@@ -8,7 +8,8 @@
             //EmployeeAttendence.Employee_Attendence();
             //CalculateEmployeeWage.Calculate_EmployeeWage();
             // PartTimeWage.Parttime_Wage();
-            CalculateSwitchCase.CalculateSwitch_Case();
+            //CalculateSwitchCase.CalculateSwitch_Case();
+            CalculateMonthlyWage.Calculate_MonthlyWage();
         }
     }
 }
