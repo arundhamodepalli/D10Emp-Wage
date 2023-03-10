@@ -5,7 +5,8 @@
         static void Main(string[] args)
         {
             // Console.WriteLine("welcome to employee wage computation");
-            EmployeeAttendence.Employee_Attendence();
+            //EmployeeAttendence.Employee_Attendence();
+            CalculateEmployeeWage.Calculate_EmployeeWage();
         }
     }
 }
