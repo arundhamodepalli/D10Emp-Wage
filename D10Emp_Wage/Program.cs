@@ -6,7 +6,8 @@
         {
             // Console.WriteLine("welcome to employee wage computation");
             //EmployeeAttendence.Employee_Attendence();
-            CalculateEmployeeWage.Calculate_EmployeeWage();
+            //CalculateEmployeeWage.Calculate_EmployeeWage();
+            PartTimeWage.Parttime_Wage();
         }
     }
 }
