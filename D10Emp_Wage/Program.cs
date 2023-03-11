@@ -9,9 +9,10 @@
             //CalculateEmployeeWage.Calculate_EmployeeWage();
             // PartTimeWage.Parttime_Wage();
             //CalculateSwitchCase.CalculateSwitch_Case();
-           // CalculateMonthlyWage.Calculate_MonthlyWage();
-          // CalculateWorking.Calculate_Working();
-          ComputeEmpWage.Compute_EmpWage();
+            // CalculateMonthlyWage.Calculate_MonthlyWage();
+            // CalculateWorking.Calculate_Working();
+            //ComputeEmpWage.Compute_EmpWage();
+            ComputeMultiple.Compute_Multiple();
         }
     }
 }
