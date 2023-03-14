@@ -13,7 +13,8 @@
             // CalculateWorking.Calculate_Working();
             //ComputeEmpWage.Compute_EmpWage();
             // ComputeMultiple.Compute_Multiple();
-            EmpWageBuilder.EmpWage_Builder();
+            //EmpWageBuilder.EmpWage_Builder();
+            CompanyEmpWage.Company_EmpWage();
         }
     }
 }
