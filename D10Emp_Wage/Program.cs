@@ -12,7 +12,8 @@
             // CalculateMonthlyWage.Calculate_MonthlyWage();
             // CalculateWorking.Calculate_Working();
             //ComputeEmpWage.Compute_EmpWage();
-            ComputeMultiple.Compute_Multiple();
+            // ComputeMultiple.Compute_Multiple();
+            EmpWageBuilder.EmpWage_Builder();
         }
     }
 }
